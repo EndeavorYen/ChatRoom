@@ -1,5 +1,5 @@
 # ChatRoom
 Easy ChatRoom in Linux
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
